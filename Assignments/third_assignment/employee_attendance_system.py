@@ -189,6 +189,7 @@ def display_attendance(attendance):
 
             print(name, "-", format(percentage, ".2f") + "%")
 
+
 def generate_report(attendance):
 
     with open("attendance_report.txt", "w") as file:
