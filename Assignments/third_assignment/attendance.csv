@@ -1,0 +1,9 @@
+employee_name,date,status
+Anu,2026-10-01,Present
+Rahul,2026-10-01,Absent
+Anu,2026-10-02,Present
+Rahul,2026-10-02,Present
+Maya,2026-10-02,Absent
+Anu,2026-10-03,Absent
+Rahul,2026-10-03,Present
+Maya,2026-10-03,PresentAnu,2026-10-04,Present

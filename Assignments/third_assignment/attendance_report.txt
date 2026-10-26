@@ -1,0 +1,25 @@
+EMPLOYEE ATTENDANCE REPORT
+========================================
+
+Employee: Anu
+Present days: 2
+Absent days: 1
+Total recorded days: 3
+Attendance percentage: 66.67%
+Status: BELOW 75%
+
+Employee: Rahul
+Present days: 2
+Absent days: 1
+Total recorded days: 3
+Attendance percentage: 66.67%
+Status: BELOW 75%
+
+Employee: Maya
+Present days: 0
+Absent days: 1
+Total recorded days: 1
+Attendance percentage: 0.00%
+Status: BELOW 75%
+
+Employees below 75% attendance: 3
